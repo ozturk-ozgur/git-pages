@@ -1,0 +1,26 @@
+{
+  "name": "09-08",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d ./"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ozturk-ozgur/git-pages.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ozturk-ozgur/git-pages/issues"
+  },
+  "homepage": "https://github.com/ozturk-ozgur/git-pages#readme",
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  },
+  "dependencies": {
+    "bootstrap": "^5.2.0"
+  }
+}
