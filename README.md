@@ -1,1 +1,1 @@
-gh_pages
+https://ozturk-ozgur.github.io/git-pages/
