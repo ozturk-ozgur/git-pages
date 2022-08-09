@@ -24,6 +24,7 @@ npm i gh-pages --save-dev   -> node_modules kuruldu
 "scripts": {
     "deploy": "gh-pages -d ./"
 
+npm run deploy
 
 
 
