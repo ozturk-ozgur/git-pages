@@ -8,6 +8,9 @@ git master dan main e gecmek icin önce git add ve commit yapilmali sonra main e
 git checkout -b gh-pages (new branch)
 git push --set-upstream origin gh-pages
 
+settings - pages sayfasina gec
+
+touch .nojekyll
 
 
 
